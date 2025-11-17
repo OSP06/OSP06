@@ -68,20 +68,19 @@ Built climate-tech solution addressing sustainable energy
 
 ## 🎯 Currently
 
-- 🔭 Completing my MS in Computer Science at Pace University
+- 🔭 Compeleted my MS in Computer Science at Pace University
 - 🌱 Learning advanced system design and distributed systems
 - 👯 Looking for full-time opportunities (May 2025 start)
 - 🌍 Interested in EU positions with visa sponsorship
-- ⚡ Building F1 analytics tools in my free time
+- ⚡ Built F1 analytics tools in my free time
 
 ---
 
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/om-sanjay-patel)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ompateldev06@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://ompatelportfolio.vercel.app)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 
 ---
 
@@ -90,7 +89,7 @@ Built climate-tech solution addressing sustainable energy
 - 🥉 **3rd Place** - NY Climate Exchange Hackathon 2024
 - ☁️ **AWS Certified Developer** - Associate (2025)
 - 📚 **Teaching Assistant** - Data Structures & Algorithms @ Pace University
-- 🎓 **GPA: 3.8/4.0** - MS Computer Science
+- 🎓 **GPA: 3.6/4.0** - MS Computer Science
 
 ---
 
