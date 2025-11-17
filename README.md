@@ -62,7 +62,7 @@ Full-featured mobile app that transforms hiking into engaging adventures through
 
 ---
 
-### [MultiAgent Olair - AI-Enhanced CRM](https://github.com/OSP06/multiagent-olair)
+### 🏘️ [MultiAgent Olair - AI-Enhanced CRM](https://github.com/OSP06/multiagent-olair)
 *TypeScript • OpenAI API • React • Node.js*
 
 CRM platform augmented with multi-agent AI for intelligent customer management.
@@ -125,7 +125,7 @@ ML project applying clustering techniques for customer behavioral analysis.
 - Actionable business insights from segmentation patterns
 - Comprehensive data visualization with matplotlib/seaborn
 
-### 💼 [JobLinkAi](https://github.com/OSP06/JobLinkAi) - AI Job Matching Platform
+### [JobLinkAi](https://github.com/OSP06/JobLinkAi) - AI Job Matching Platform
 *TypeScript • React • Node.js • Vector Search • NLP*
 
 Intelligent job matching platform that uses AI to connect candidates with opportunities through semantic matching and skill analysis.
