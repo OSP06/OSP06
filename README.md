@@ -56,12 +56,6 @@ Full-featured mobile app that transforms hiking into engaging adventures through
 - Designed **offline-first architecture** with MBTiles for no-internet functionality
 - Created **gamification system** with quests, badges, collectibles, and leaderboards
 
-**Scale & Performance:**
-- 68% daily active users
-- 73% quest completion rate
-- <2s cold start time, 42MB app size
-- Real-time features via Socket.io
-
 **Tech Stack:** React Native, Express.js, PostgreSQL, Redis, TensorFlow Lite, Mapbox, AWS
 
 **Impact:** Demonstrates full-stack mobile development, real-time systems, and psychology-driven engagement mechanics.
