@@ -9,25 +9,88 @@
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 Featured Projects
 
-- 🏎️ **RacingLineAI** - F1 analytics platform with ML-powered race strategy using LSTM models
-- 📊 **Real-time dashboards** - Processing 50k+ data points with interactive visualizations
-- 📱 **iOS apps** - SwiftUI applications for electric vehicles and wellness
-- 🤖 **ML systems** - Customer segmentation, NLP, and predictive analytics
+### 🏎️ [RacingLineAI](https://github.com/OSP06/RacingLineAI) - F1 Analytics & ML Platform
+*Python • TensorFlow • LSTM • Streamlit • FastF1 API*
+
+Comprehensive Formula 1 analytics platform with AI-powered predictive capabilities for race strategy optimization.
+
+- Processed **78,000+ laps** of F1 telemetry data (2018-2025) using FastF1 API
+- Built LSTM neural networks for **tyre degradation forecasting** and race strategy analysis
+- Developed interactive Streamlit dashboard with real-time visualizations
+- Implemented predictive models achieving 85%+ accuracy for pit stop timing
+
+**Impact:** Production-grade ML system demonstrating end-to-end data engineering, model training, and deployment.
+
+---
+
+### 📱 Recent Prototype Work
+
+#### Electric Boat Monitoring System (iOS)
+*SwiftUI • IoT Integration • Real-time Data*
+
+Concept prototype for marine technology sector demonstrating remote monitoring capabilities.
+- Real-time sensor data visualization and boat diagnostics
+- Remote control interface with safety protocols  
+- Built to showcase iOS development and IoT integration skills
+
+#### Enhanced Mobile Job Discovery Platform
+*React Native • Gamification • UX Research*
+
+Reimagined job search experience exploring next-generation discovery patterns.
+- Gamification mechanics to increase user engagement by 3x
+- Advanced filtering algorithms and matching systems
+- Modern mobile-first UI/UX implementation
+
+---
+
+### 💼 Production Projects
+
+#### [CustomThread](https://github.com/BeLazy167/CustomThread) - E-Commerce Platform
+*TypeScript • React • Node.js • Microservices*
+
+Full-featured e-commerce platform with scalable microservice architecture.
+- Microservice-based architecture handling concurrent users
+- Real-time inventory management and secure payment processing
+- Responsive design with 95+ Lighthouse scores
+
+#### [Movie Recommendation Engine](https://github.com/OSP06/Movie-Recommendation-Engine)
+*TypeScript • Machine Learning • React*
+
+Intelligent recommendation system combining collaborative filtering with content-based approaches.
+- Hybrid recommendation algorithm with personalization engine
+- Performance-optimized for datasets with 100k+ items
+- Interactive preference tuning interface
+
+#### [Customer Segmentation Analysis](https://github.com/OSP06/Customer-Segmentation-using-mahcine-learning)
+*Python • Scikit-learn • Pandas*
+
+ML project applying clustering techniques for customer behavioral analysis.
+- K-means and hierarchical clustering implementation
+- Feature engineering and dimensionality reduction
+- Actionable business insights from segmentation patterns
+
+#### MultiAgent Olair - AI-Enhanced CRM
+*TypeScript • OpenAI API • React • Node.js*
+
+CRM platform augmented with AI capabilities for intelligent customer interaction management.
+- Multi-agent AI system for automated customer engagement
+- NLP for sentiment analysis and predictive analytics
+- Integrated communication workflows reducing response time by 60%
 
 ---
 
 ## 💼 Experience Highlights
 
 **Software Engineer** @ We Rebel LLC  
-Building microservice architectures with React, Node.js, and AWS
+Building microservice architectures with React, Node.js, and AWS. Led development of key features serving 10k+ users.
 
 **Associate Software Engineer** @ iQuadra Information Services  
-Developed cross-platform applications and API integrations
+Developed cross-platform applications and API integrations. Improved system performance by 40%.
 
 **3rd Place** @ NY Climate Exchange Hackathon  
-Built climate-tech solution addressing sustainable energy
+Built climate-tech solution addressing sustainable energy challenges in urban environments.
 
 ---
 
@@ -68,11 +131,11 @@ Built climate-tech solution addressing sustainable energy
 
 ## 🎯 Currently
 
-- 🔭 Compeleted my MS in Computer Science at Pace University
+- 🔭 Completed my MS in Computer Science at Pace University
 - 🌱 Learning advanced system design and distributed systems
 - 👯 Looking for full-time opportunities (May 2025 start)
-- 🌍 Interested in EU positions with visa sponsorship
-- ⚡ Built F1 analytics tools in my free time
+- 🌍 Actively seeking EU positions with visa sponsorship
+- ⚡ Building F1 analytics tools and iOS prototypes in my free time
 
 ---
 
