@@ -11,7 +11,7 @@
 
 ## 🚀 Featured Projects
 
-### 🏎️ [RacingLineAI](https://github.com/OSP06/RacingLineAI) - F1 Analytics & ML Platform
+### 🏎️ [RacingLineAI](https://github.com/OSP06/RacinglinAi) - F1 Analytics & ML Platform
 *Python • TensorFlow • LSTM • Streamlit • FastF1 API*
 
 Comprehensive Formula 1 analytics platform with AI-powered predictive capabilities for race strategy optimization.
@@ -63,7 +63,7 @@ Intelligent recommendation system combining collaborative filtering with content
 - Performance-optimized for datasets with 100k+ items
 - Interactive preference tuning interface
 
-#### [Customer Segmentation Analysis](https://github.com/OSP06/Customer-Segmentation-using-mahcine-learning)
+#### [Customer Segmentation Analysis](https://github.com/OSP06/Customer-Segmentation-using-Machine-Learning)
 *Python • Scikit-learn • Pandas*
 
 ML project applying clustering techniques for customer behavioral analysis.
@@ -71,7 +71,7 @@ ML project applying clustering techniques for customer behavioral analysis.
 - Feature engineering and dimensionality reduction
 - Actionable business insights from segmentation patterns
 
-#### MultiAgent Olair - AI-Enhanced CRM
+#### [MultiAgent Olair - AI-Enhanced CRM](https://github.com/OSP06/multiagent-olair)
 *TypeScript • OpenAI API • React • Node.js*
 
 CRM platform augmented with AI capabilities for intelligent customer interaction management.
