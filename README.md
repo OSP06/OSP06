@@ -11,6 +11,28 @@
 
 ## 🚀 Featured Projects
 
+### 🔍 Errloom - Production Debugging Practice Platform
+*TypeScript • React • Browser-Based • Interactive Learning*
+Master production debugging through hands-on practice with real-world outage scenarios from companies like Reddit, GitLab, Discord, AWS, and Cloudflare.
+
+15+ interactive scenarios across 3 difficulty levels (Novice, Intermediate, Expert)
+Recreated actual production incidents with real logs, metrics, and incident context
+Terminal-inspired UI with authentic debugging workflows and tools
+100% browser-based - no setup required, instant learning
+Built comprehensive incident library from public postmortems and RCA documents
+
+**Key Features:**
+
+Step-by-step guided debugging with hints and validation
+Learn root cause analysis methodologies used by top tech companies
+Practice with realistic distributed systems failures
+Compare your solutions with actual incident resolutions
+
+**Impact:** Addresses the gap in production debugging education - junior engineers can now safely fail and learn from real outages without production access. Perfect for interview prep, onboarding, and continuous learning.
+🌐 Live Demo: errloom.dev
+
+---
+
 ### 🏎️ [RacingLineAI](https://github.com/OSP06/RacinglinAi) - F1 Analytics & ML Platform
 *Python • TensorFlow • LSTM • Streamlit • FastF1 API*
 
