@@ -11,7 +11,7 @@
 
 ## 🚀 Featured Projects
 
-### 🔍 Errloom - Production Debugging Practice Platform
+### 🔍 [Errloom](https://githuub.com/OSP06/errloom) - Production Debugging Practice Platform
 *TypeScript • React • Browser-Based • Interactive Learning*
 Master production debugging through hands-on practice with real-world outage scenarios from companies like Reddit, GitLab, Discord, AWS, and Cloudflare.
 
