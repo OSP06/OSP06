@@ -13,7 +13,6 @@
 
 ### 🔍 [Errloom](https://githuub.com/OSP06/errloom) - Production Debugging Practice Platform
 *TypeScript • React • Browser-Based • Interactive Learning*
-Master production debugging through hands-on practice with real-world outage scenarios from companies like Reddit, GitLab, Discord, AWS, and Cloudflare.
 
 15+ interactive scenarios across 3 difficulty levels (Novice, Intermediate, Expert)
 Recreated actual production incidents with real logs, metrics, and incident context
