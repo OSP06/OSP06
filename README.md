@@ -11,7 +11,7 @@
 
 ## 🚀 Featured Projects
 
-### 🔍 [Errloom](https://githuub.com/OSP06/errloom) - Production Debugging Practice Platform
+### 🔍 [Errloom](https://github.com/OSP06/errloom) - Production Debugging Practice Platform
 *TypeScript • React • Browser-Based • Interactive Learning*
 
 15+ interactive scenarios across 3 difficulty levels (Novice, Intermediate, Expert)
